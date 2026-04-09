@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "SMP_Cam",
   "bot-account": {
-    "username": "SMPCAM",
+    "username": "",
     "password": "",
     "type": "offline"
   },
