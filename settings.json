@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tagmariha.aternos.me",
+    "ip": "bichir.aternos.host",
     "port": 60390,
     "version": "1.21",
     "try-creative": false
